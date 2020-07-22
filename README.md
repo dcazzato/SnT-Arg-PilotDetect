@@ -17,3 +17,28 @@ The released dataset consists of the images whit the regions containing the pers
 - Column 2-5: Bounding box of the person;
 - Column 6-55: Normalized detected joints;
 - Column 56: Class label (0 for non-pilot, 1 for pilot, 2 for person using a mobile phone).
+
+# License
+All distributed software are subject to the 3-clause BSD license. See the LICENSE file. 
+
+
+# Citation
+
+Please cite this paper in your publications if it helps your research:
+
+```
+@inproceedings{cazzato2020preliminary,
+  title={A Preliminary Study on the Automatic Visual based Identification of UAV Pilots from Counter UAVs.},
+  author={Cazzato, Dario and Cimarelli, Claudio and Voos, Holger},
+  booktitle={VISIGRAPP (5: VISAPP)},
+  pages={582--589},
+  year={2020}
+}
+```
+
+# Contributors
+
+List of people that have contributed:
+
++ Dario Cazzato (dcazzato85@gmail.com): Main Author, Maintainaince and Documentation.
+	
