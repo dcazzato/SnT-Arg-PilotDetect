@@ -1,2 +1,2 @@
-# SnT-Arg-PilotDetect
-Official page of the SnT-Arg-PilotDetect dataset.
+# SnT-ARG-PilotDetect
+Official page of the SnT-ARG-PilotDetect dataset.
