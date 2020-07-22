@@ -19,7 +19,7 @@ The released dataset consists of the images whit the regions containing the pers
 - Column 56: Class label (0 for non-pilot, 1 for pilot, 2 for person using a mobile phone).
 
 # License
-All distributed software are subject to the 3-clause BSD license. See the LICENSE file. 
+All distributed software are subject to the GNU General Public License, version 3 license.
 
 
 # Citation
