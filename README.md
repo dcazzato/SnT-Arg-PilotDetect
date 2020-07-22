@@ -1,4 +1,7 @@
 # SnT-ARG-PilotDetect
+
+![Sample Image](https://github.com/dcazzato/SnT-Arg-PilotDetect/blob/master/sample_image.png)
+
 Official page of the SnT-ARG-PilotDetect dataset.
 
 The dataset has been introduced to assess the capabilities to identify the UAV pilots in realistic scenarios.
