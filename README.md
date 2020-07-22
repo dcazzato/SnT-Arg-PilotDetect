@@ -44,4 +44,5 @@ Please cite this paper in your publications if it helps your research:
 List of people that have contributed:
 
 + Dario Cazzato (dcazzato85@gmail.com): Main Author, Maintainaince and Documentation.
++ Claudio Cimarelli (cima.claudio@gmail.com): Main Author, Maintainaince and Documentation
 	
