@@ -24,6 +24,10 @@ The released dataset consists of the images whit the regions containing the pers
 # License
 All distributed software are subject to the GNU General Public License, version 3 license.
 
+# Download link
+
+![URL](https://drive.google.com/drive/folders/1ntNYla1g41-y4NgfU0CzO6m0uK55g7JL?usp=sharing)
+
 
 # Citation
 
